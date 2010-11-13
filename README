@@ -1,0 +1,8 @@
+This script reads the contents of my iTunes library on my iMac (Snow Leopard),
+reads the contents of my mobile phone connected to my iMac through mass storage,
+diffs the contents and updates the mobile phone so that the content is the same.
+
+Theoretically, Nokia already provide tools to update your phone.  The problem is
+that it's painfully slow at doing it, and this script is much faster.  Well, it's
+faster in my experience, anyway.  My N97 is really annoying me and will soon be
+replaced by an iPhone, but until then, this script will have to do.
